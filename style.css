@@ -127,4 +127,12 @@ position:absolute;
 	position:absolute;
 	color:#FFFFFF;
 }
+/* Logo */
 
+.logo {
+	width:200px;
+	top:500px;
+	left:20px;
+	position:absolute;
+	
+}
